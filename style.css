@@ -1,0 +1,15 @@
+html {
+    background-color: black;
+    color: greenyellow;
+}
+
+body {
+    font-family: monospace;
+    white-space: pre;
+    text-align: center;
+}
+
+#output {
+    white-space: pre-wrap;
+    font-family: monospace;
+}
